@@ -1,2 +1,2 @@
 # Coder-Buddy
-In This repository my projects are stored in daily life
+This Repository is my first repository in coding life
